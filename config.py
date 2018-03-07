@@ -3,7 +3,7 @@ class Config(object):
     pass
 
 class UserConfig(Config):
-    '''用户配置'''
+    '''用户配置 '''
     pass
 
 class DevConfig(Config):
