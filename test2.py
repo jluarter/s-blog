@@ -10,3 +10,4 @@ edit
 
 git add .
 git commit -m "log"
+git push -u origin remote-branch-name
